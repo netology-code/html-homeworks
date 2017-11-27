@@ -18,12 +18,11 @@
 
 ## Процесс реализации
 
-1. Прочитайте инструкцию по работе с онлайн-редактором
-<a href="https://netology-university.bitbucket.io/guides/wm/codepen-guide/" target="_blank">Codepen</a>.
-2. После регистрации перейдите по ссылке <a href="https://codepen.io/Netology/pen/xPaxgb?editors=1000#0" target="_blank">https://codepen.io/Netology/pen/xPaxgb</a>.
+1. Прочитайте инструкцию по работе с онлайн-редактором [Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/).
+2. После регистрации перейдите по ссылке [https://codepen.io/Netology/pen/xPaxgb](https://codepen.io/Netology/pen/xPaxgb?editors=1000).
 3. Нажмите кнопку <kbd>Fork</kbd>.
 4. Выполните домашнее задание.
 5. Нажмите кнопку <kbd>Save</kbd>.
 6. Скопируйте адрес из адресной строки браузера.
-7. В личном кабинете на сайте <a href="https://netology.ru/" target="_blank">Нетологии</a> откройте страницу домашней работы и вставьте скопированную ссылку в поле «Комментарий к решению».
+7. В личном кабинете на сайте [Нетологии](https://netology.ru/) откройте страницу домашней работы и вставьте скопированную ссылку в поле «Комментарий к решению».
 *Никакие файлы загружать не нужно*
