@@ -3,7 +3,7 @@
 
 ## Описание задания:
 
-1. Подключите файл находящийся [по ссылке](https://github.com/netology-code/html-homeworks/css/resourses/normalize.css) с помощью тега `import` внутри CSS-файла `styles`;
+1. Подключите файл находящийся [по ссылке](https://github.com/netology-code/html-homeworks/css/resourses/normalize.css) с помощью тега `@import` в окне для редактирования CSS. ;
 2. Раскрастье заголовок первого уровня "Знакомство с CSS" с помощью аттрибута `style="background:#f2f2f2;`";
 3. Создайте тег `style` в шапке сайта и измените цвет шрифта `.alter-paragraph {color:#999999;}`;
 4. Создайте три CSS-правила в теге `style`:
