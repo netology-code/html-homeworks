@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <title>Позиционирование</title>
+  <style>
+		body {
+			padding: 40px;
+		}
+
+		p {
+			max-width: 700px;
+		}
+
+		ul {
+			list-style-type: none;
+		}
+
+		section:first-child {
+			overflow: hidden;
+		}
+
+
+		/* Место для решения задания 1 */
+		.first-parent {
+			border: 5px solid black;
+			max-width: 700px;
+		}
+
+		.first-child {
+			float: left;
+			border: 2px solid red;
+			width: 100px;
+			height: 100px;
+		}
+
+
+		/* Место для решения задания 2 */
+		.third-parent {
+			height: 400px;
+			background: green;
+			max-width: 700px;
+			border: 5px solid black;
+		}
+
+		.blue {
+			width: 50px;
+			height: 50px;
+			background: blue;
+		}
+
+		.yellow {
+			width: 50px;
+			height: 50px;
+			background: yellow;
+		}
+
+
+		/* Место для решения дополнительного задания */
+		.fourth-parent {
+			border: 5px solid black;
+		}
+
+		.fourth-parent div {
+			height: 300px;
+			border: 2px solid red;
+		}
+	</style>
+</head>
+<body>
+	<section>
+
+		<h2>Задание 1</h2>
+		<p>Есть два контейнера, в которых элементам задано свойство float. Из-за этого происходит выпадение этих элементов из родителя. Вы должны решить эту проблему. Для первого контейнера необходимо использовать clearfix (любая его вариация), для второго – любое другое решение.</p>
+
+		<div>
+			<ul class="first-parent">
+				<li class="first-child">1</li>
+				<li class="first-child">2</li>
+				<li class="first-child">3</li>
+				<li class="first-child">4</li>
+			</ul>
+
+			<ul class="first-parent">
+				<li class="first-child">1</li>
+				<li class="first-child">2</li>
+				<li class="first-child">3</li>
+				<li class="first-child">4</li>
+			</ul>
+		</div>
+
+	</section>
+
+	<section>
+
+		<h2>Задание 2</h2>
+		<p>
+			Есть родительский блок и два дочерних. Задача: синий блок расположить в правом верхнем углу зеленого блока. Желтый блок разместить в правом нижнем углу, так, чтобы желтый элемент выходил за пределы зеленого блока на 30 пикселей по горизонтали и 30 по вертикали. И, наконец, сместить зеленый блок вправо на 40 пикселей.
+		</p>
+
+		<div>
+			<div class="third-parent">
+				<div class="blue"></div>
+				<div class="yellow"></div>
+			</div>				
+		</div>
+
+	</section>
+
+	<section>
+
+		<h2>Дополнительное задание</h2>
+		<p>
+			Есть два блока внутри родителя. Задача: используя свойство float, сделать так, чтобы первый дочерний блок был в ширину 250 пикселей, а другой занимал все оставшееся место, вне зависимости от ширины окна (для проверки нужно сжать окно браузера). Попутно решить проблему с вытеканием любым удобным способом.
+		</p>
+
+		<div>
+			<div class="fourth-parent">
+				<div class="fourth-left"></div>
+				<div class="fourth-right"></div>
+			</div>
+		</div>
+
+	</section>
+</body>
+</html>
