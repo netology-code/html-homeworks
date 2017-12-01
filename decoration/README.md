@@ -35,7 +35,7 @@
 
 1. Прочитать инструкцию по работе с онлайн-редактором [Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/).
 2. Зарегистрироваться в [Codepen](https://codepen.io).
-3. После регистрации перейти по ссылке [https://codepen.io/Netology/pen/pdOqjX](https://codepen.io/Netology/pen/pdOqjX?editors=1100) на пен с домашним заданием.
+3. После регистрации перейти по ссылке [https://codepen.io/Netology/pen/pdOqjX](https://codepen.io/Netology/pen/pdOqjX?editors=1100).
 4. Нажать кнопку <kbd>Fork</kbd>.
 5. Выполнить домашнее задание.
 6. Нажать кнопку <kbd>Save</kbd>.
