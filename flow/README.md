@@ -5,15 +5,15 @@
 
 1. Есть три блока. Задача: сделать так, чтобы они были шириной 100 пикселей, выстроились слева направо и были выровнены вертикально по центру.
 
-![Задание 1](resourses/flow1.jpg)
+![Задание 1](resourses/flow-1.jpg)
 
 2. Есть три списка внутри родителя. Задача: сделать из них таблицу. В готовой таблице должно быть три строки по три ячейки в каждой.
 
-![Задание 2](resourses/flow2.jpg)
+![Задание 2](resourses/flow-2.jpg)
 
 3. Есть текст, разбитый на абзацы. Каждый абзац имеет свой уникальный класс. Задача: скрыть абзацы с классами `p2` и `p4`.
 
-![Задание 3](resourses/flow3.jpg)
+![Задание 3](resourses/flow-3.jpg)
 
 ## Требования к заданию:
 
@@ -24,7 +24,7 @@
 
 1. Прочитать инструкцию по работе с онлайн-редактором [Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/).
 2. Зарегистрироваться в [Codepen](https://codepen.io).
-3. После регистрации перейти по ссылке [https://codepen.io/Netology/pen/XzPPdX](https://codepen.io/Netology/pen/XzPPdX?editors=1000).
+3. После регистрации перейти по ссылке [https://codepen.io/Netology/pen/XzPPdX](https://codepen.io/Netology/pen/XzPPdX?editors=1100).
 4. Нажать кнопку <kbd>Fork</kbd>.
 5. Выполнить домашнее задание.
 6. Нажать кнопку <kbd>Save</kbd>.
