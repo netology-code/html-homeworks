@@ -3,6 +3,8 @@
 
 ## Описание задания:
 
+Домашнее задание выполнять в редакторе по ссылке [Домашнее задание к лекции «Процесс верстки сайта»](https://codepen.io/Netology/pen/YEOmPx)
+
 1. Выбрать один любимый сайт.
 2. Разбить сайт на блоки.
 3. Сверстать сетку блоков сайта.
@@ -22,7 +24,7 @@
 
 1. Прочитать инструкцию по работе с онлайн-редактором [Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/).
 2. Зарегистрироваться в [Codepen](https://codepen.io).
-3. После регистрации перейти по ссылке [https://codepen.io/Netology/pen/YEOmPx](https://codepen.io/Netology/pen/YEOmPx?editors=1000).
+3. После регистрации перейти по ссылке [https://codepen.io/Netology/pen/YEOmPx](https://codepen.io/Netology/pen/YEOmPx).
 4. Нажать кнопку <kbd>Fork</kbd>.
 5. Выполнить домашнее задание.
 6. Нажать кнопку <kbd>Save</kbd>.

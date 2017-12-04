@@ -3,6 +3,8 @@
 
 ## Описание задания:
 
+Домашнее задание выполнять в редакторе по ссылке [Домашнее задание к лекции «Семантическая разметка документа»](https://codepen.io/Netology/pen/wPEVzQ)
+
 1. Необходимо сверстать HTML-документ с рецептом, пример есть в дополнительных материалах.
 2. Создавать внешнее сходство не требуется, главное максимально семантично подбирать элементы для разметки.
 
@@ -16,7 +18,7 @@
 
 1. Прочитать инструкцию по работе с онлайн-редактором [Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/).
 2. Зарегистрироваться в [Codepen](https://codepen.io).
-3. После регистрации перейти по ссылке [https://codepen.io/Netology/pen/wPEVzQ](https://codepen.io/Netology/pen/wPEVzQ?editors=1100).
+3. После регистрации перейти по ссылке [https://codepen.io/Netology/pen/wPEVzQ](https://codepen.io/Netology/pen/wPEVzQ).
 4. Нажать кнопку <kbd>Fork</kbd>.
 5. Выполнить домашнее задание.
 6. Нажать кнопку <kbd>Save</kbd>.

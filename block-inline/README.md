@@ -3,6 +3,8 @@
 
 ## Описание задания:
 
+Домашнее задание выполнять в редакторе по ссылке [Домашнее задание к лекции «Блочные и инлайновые элементы»](https://codepen.io/Netology/pen/javgWR)
+
 1. Сверстать любую страницу, например, о себе.
 2. Страница должна иметь 3-4 параграфа текста.
 3. **В каждом** параграфе должны быть участки текста с инлайн-элементами `em` и `strong`.
@@ -18,7 +20,7 @@
 
 1. Прочитать инструкцию по работе с онлайн-редактором [Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/).
 2. Зарегистрироваться в [Codepen](https://codepen.io).
-3. После регистрации перейти по ссылке  [https://codepen.io/Netology/pen/javgWR](https://codepen.io/Netology/pen/javgWR?editors=1000).
+3. После регистрации перейти по ссылке  [https://codepen.io/Netology/pen/javgWR](https://codepen.io/Netology/pen/javgWR).
 4. Нажать кнопку <kbd>Fork</kbd>.
 5. Выполнить домашнее задание.
 6. Нажать кнопку <kbd>Save</kbd>.
