@@ -21,7 +21,7 @@
 
 ## Процесс реализации
 
-1. Прочитайте инструкцию по работе с онлайн-редактором [Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/).
+1. Прочитайте инструкцию по работе с онлайн-редактором [Codepen](https://github.com/netology-code/guides/tree/master/codepen).
 2. После регистрации перейдите по ссылке [https://codepen.io/Netology/pen/gXQLjV](https://codepen.io/Netology/pen/gXQLjV).
 3. Нажмите кнопку <kbd>Fork</kbd>.
 4. Выполните домашнее задание.
